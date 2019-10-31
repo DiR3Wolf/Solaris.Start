@@ -1,0 +1,370 @@
+# Kodi Media Center language file
+# Addon Name: Solaris.TV
+# Addon id: plugin.video.solaris.tv
+# Addon Provider: Dir3Wolf
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: English (http://www.transifex.com/projects/p/xbmc-addons/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30000"
+msgid "Account Info"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Username"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Password"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Logout"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Set Default Profile"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Reset Device ID"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Logout Successful"
+msgstr ""
+
+msgctxt "#30007"
+msgid "You have been successfully logged out."
+msgstr ""
+
+msgctxt "#30100"
+msgid "Next Airings"
+msgstr ""
+
+msgctxt "#30101"
+msgid "My DVR"
+msgstr ""
+
+msgctxt "#30102"
+msgid "Favorite Channels"
+msgstr ""
+
+msgctxt "#30103"
+msgid "Live TV"
+msgstr ""
+
+msgctxt "#30104"
+msgid "Sports"
+msgstr ""
+
+msgctxt "#30105"
+msgid "Kids"
+msgstr ""
+
+msgctxt "#30106"
+msgid "Recently Watched"
+msgstr ""
+
+msgctxt "#30107"
+msgid "Featured"
+msgstr ""
+
+msgctxt "#30108"
+msgid "Movies"
+msgstr ""
+
+msgctxt "#30198"
+msgid "Playback Failed"
+msgstr ""
+
+msgctxt "#30199"
+msgid "This episode has not aired yet"
+msgstr ""
+
+msgctxt "#30200"
+msgid "Login Failed"
+msgstr ""
+
+msgctxt "#30201"
+msgid "Something went wrong during login"
+msgstr ""
+
+msgctxt "#30202"
+msgid "Please enter your username"
+msgstr ""
+
+msgctxt "#30203"
+msgid "Please enter your password"
+msgstr ""
+
+msgctxt "#30204"
+msgid "Please enter your verification code"
+msgstr ""
+
+msgctxt "#30205"
+msgid "Profile Not Found"
+msgstr ""
+
+msgctxt "#30206"
+msgid "Your profile list could not be retrieved"
+msgstr ""
+
+msgctxt "#30207"
+msgid "Authorization Failed"
+msgstr ""
+
+msgctxt "#30208"
+msgid "Could not retrieve grant code"
+msgstr ""
+
+msgctxt "#30209"
+msgid "Could not retrieve the reqpayload"
+msgstr ""
+
+msgctxt "#30210"
+msgid "Choose Profile"
+msgstr ""
+
+msgctxt "#30211"
+msgid "Search"
+msgstr ""
+
+msgctxt "#30212"
+msgid "Profile"
+msgstr ""
+
+msgctxt "#30213"
+msgid "Always Ask Profile"
+msgstr ""
+
+msgctxt "#30214"
+msgid "Choose Channel"
+msgstr ""
+
+msgctxt "#30215"
+msgid "My DVR"
+msgstr ""
+
+msgctxt "#30216"
+msgid "Favorite Channels"
+msgstr ""
+
+msgctxt "#30217"
+msgid "Live TV"
+msgstr ""
+
+msgctxt "#30218"
+msgid "Sports"
+msgstr ""
+
+msgctxt "#30219"
+msgid "Kids"
+msgstr ""
+
+msgctxt "#30220"
+msgid "Recently Watched"
+msgstr ""
+
+msgctxt "#30221"
+msgid "Featured"
+msgstr ""
+
+msgctxt "#30222"
+msgid "Search"
+msgstr ""
+
+msgctxt "#30223"
+msgid "Main Menu"
+msgstr ""
+
+msgctxt "#30224"
+msgid "All Channels"
+msgstr ""
+
+msgctxt "#30225"
+msgid "Export Folder"
+msgstr ""
+
+msgctxt "#30226"
+msgid "Update Library(Hours)"
+msgstr ""
+
+msgctxt "#30228"
+msgid "Trending Live"
+msgstr ""
+
+msgctxt "#30300"
+msgid "Playback"
+msgstr ""
+
+msgctxt "#30310"
+msgid "Use Inputstream Adaptive"
+msgstr ""
+
+msgctxt "#30320"
+msgid "Play Alternate Stream"
+msgstr ""
+
+msgctxt "#30330"
+msgid "EPG"
+msgstr ""
+
+msgctxt "#30331"
+msgid "Enable Custom Directory"
+msgstr ""
+
+msgctxt "#30332"
+msgid "EPG Data Location"
+msgstr ""
+
+msgctxt "#30333"
+msgid "Reset EPG"
+msgstr ""
+
+msgctxt "#30334"
+msgid "Build On Start"
+msgstr ""
+
+msgctxt "#30335"
+msgid "Days"
+msgstr ""
+
+msgctxt "#30336"
+msgid "Refresh Interval (Hours)"
+msgstr ""
+
+msgctxt "#30337"
+msgid "Disable EPG Service (Restart After Changing)"
+msgstr ""
+
+msgctxt "#30350"
+msgid "Where would you like to watch this episode?"
+msgstr ""
+
+msgctxt "#30351"
+msgid "Click an item below to choose your preference"
+msgstr ""
+
+msgctxt "#30352"
+msgid "ON DEMAND"
+msgstr ""
+
+msgctxt "#30353"
+msgid "DVR"
+msgstr ""
+
+msgctxt "#30360"
+msgid "Solaris EPG"
+msgstr ""
+
+msgctxt "#30361"
+msgid "Please enable PVR IPTV Simple Client"
+msgstr ""
+
+msgctxt "#30371"
+msgid "IPTV Simple needs to be restarted. Do you want to allow this?"
+msgstr ""
+
+msgctxt "#30372"
+msgid "IPTV Simple settings need to be set changed in order to allow Solaris content. Do you want to allow this?"
+msgstr ""
+
+msgctxt "#30897"
+msgid "<< Prev."
+msgstr ""
+
+msgctxt "#30898"
+msgid "Next >>"
+msgstr ""
+
+
+msgctxt "#30899"
+msgid "Select Genre"
+msgstr ""
+
+msgctxt "#30900"
+msgid "All"
+msgstr ""
+
+msgctxt "#30905"
+msgid "Action & Adventure"
+msgstr ""
+
+msgctxt "#30910"
+msgid "Animation"
+msgstr ""
+
+msgctxt "#30915"
+msgid "Comedy"
+msgstr ""
+
+msgctxt "#30920"
+msgid "Crime"
+msgstr ""
+
+msgctxt "#30925"
+msgid "Documentary"
+msgstr ""
+
+msgctxt "#30930"
+msgid "Drama"
+msgstr ""
+
+msgctxt "#30935"
+msgid "Fantasy"
+msgstr ""
+
+msgctxt "#30940"
+msgid "History"
+msgstr ""
+
+msgctxt "#30945"
+msgid "Horror"
+msgstr ""
+
+msgctxt "#30950"
+msgid "Kids"
+msgstr ""
+
+msgctxt "#30955"
+msgid "Military & War"
+msgstr ""
+
+msgctxt "#30960"
+msgid "Musical"
+msgstr ""
+
+msgctxt "#30965"
+msgid "Other Sports"
+msgstr ""
+
+msgctxt "#30970"
+msgid "Romance"
+msgstr ""
+
+msgctxt "#30975"
+msgid "Science Fiction"
+msgstr ""
+
+msgctxt "#30980"
+msgid "Suspense"
+msgstr ""
+
+msgctxt "#30985"
+msgid "Western"
+msgstr ""
+
+msgctxt "#30986"
+msgid "Cookie Error"
+msgstr ""

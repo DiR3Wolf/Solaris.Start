@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<addons>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <addon id="plugin.video.solaris.tv" name="Solaris.TV" version="1.0.0-alpha" provider-name="Dir3wolf">
     <requires>
@@ -32,4 +31,3 @@
         </assets>
     </extension>
 </addon>
-</addons>
