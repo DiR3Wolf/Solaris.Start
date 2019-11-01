@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
 
-<addon id="plugin.video.solaris.tv" name="Solaris.TV" version="1.0.0-alpha" provider-name="Dir3wolf">
+<addon id="plugin.video.solaris.tv" name="Solaris.TV" version="1.0.0-beta" provider-name="Dir3wolf">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" version="2.9.1"/>
